@@ -1,7 +1,9 @@
 ### <p align="center"> STP SKINHUB 
 <p align="center">
+   
+</details>
  
- 
+#
  
  <a href="mas.md">
   <img src="https://a.ppy.sh/21821366"  
