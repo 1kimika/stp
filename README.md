@@ -25,3 +25,7 @@
   <img src="https://a.ppy.sh/20674186"  
        width="175"
        height="175"></a>
+ <a href="shiidou.md">
+  <img src="https://a.ppy.sh/14346246"  
+       width="175"
+       height="175"></a>
