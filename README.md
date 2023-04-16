@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://cdn.discordapp.com/attachments/1002743049987821671/1097205832841711678/aaa.png"  
+   <img src="https://cdn.discordapp.com/attachments/1002743049987821671/1097207084040343643/aaa2.png"  
 <p align="center">
    
 </details>
